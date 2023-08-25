@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+textarea {
+    width: 80%;
+    padding: 10px;
+}
+
+button {
+    padding: 5px 15px;
+    background-color: #007bff;
+    color: rgb(2, 2, 2);
+    border: none;
+    cursor: pointer;
+}
+
+h2 {
+    margin-top: 20px;
+}
+.container {
+    max-width: 960px;
+    font-weight:bolder;
+    color:rgba(255, 0, 0, 0.903);
+    background-color: transparent;
+}
+.bg-body-tertiary{
+    background-image:url("../static/bakground.png");
+}
+.mb-1{
+    font-weight: bolder;
+}
